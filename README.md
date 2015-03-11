@@ -1,2 +1,3 @@
-# shell-scripting-style-guide
-Community driven style guide for shell scripting :+1:
+## Shell scripting code style guide
+
+Community driven style guide for shell scripting
